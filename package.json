@@ -1,0 +1,22 @@
+{
+  "name": "dashboard-eduardochat",
+  "version": "1.0.0",
+  "description": "dashboard for eduardochat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIC2173-2016-2/dashboard-eduardochat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IIC2173-2016-2/dashboard-eduardochat/issues"
+  },
+  "homepage": "https://github.com/IIC2173-2016-2/dashboard-eduardochat#readme",
+  "dependencies" : {
+    "express" : "latest"
+  }
+}
