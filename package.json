@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/IIC2173-2016-2/dashboard-eduardochat#readme",
   "dependencies" : {
-    "express" : "latest"
+    "express" : "latest",
+    "body-parser": "*",
+    "cookie-parser": "^1.4.1",    
+    "jsonwebtoken": "*",
+    "express-handlebars": "*"
   }
 }
